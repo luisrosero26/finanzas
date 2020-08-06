@@ -1,0 +1,9 @@
+chunks:
+- content: ''
+  flows:
+  - flow_id: quiz17
+    title: examen libre
+  id: welcome
+  introduction: <p>Curso examen</p>
+  rules: []
+  title: Finanzas

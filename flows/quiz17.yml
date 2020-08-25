@@ -12,16 +12,16 @@ groups:
 - id: quiz_start
   pages:
   - choices:
-    - 'No'
     - ~CORRECT~ Si
+    - 'No'
     id: quizquestion35
     prompt: ''
     title: Preg 2
     type: ChoiceQuestion
     value: 50.0
   - choices:
-    - 'No'
     - ~CORRECT~ Si
+    - 'No'
     id: quizquestion34
     prompt: ''
     title: Preg 1
